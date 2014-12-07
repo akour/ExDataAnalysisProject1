@@ -1,6 +1,6 @@
 #Exploratory Data Analysis Project 1
 
-This is my repository for the first project for Coursera Course "Exploratory Data Analysis".
+This is my repository for the first project of Coursera Course "Exploratory Data Analysis".
 
 To run this script, you have to do the following : - 
 
